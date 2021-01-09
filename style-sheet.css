@@ -25,7 +25,9 @@
             color: white;
             border: 1px solid rgb(233, 10, 10);
             padding: 10px;
-            background-color: crimson;
+            background-image: url(background6.png);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
             border-color: black;
             border-width: 2px;
             border-style: ridge;
